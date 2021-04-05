@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.2)
+  - Kingfisher (5.5.0)
+  - MarkerKit (1.4.0)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - ValidatedPropertyKit (0.0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Kingfisher (= 5.5.0)
+  - MarkerKit (= 1.4.0)
+  - RxCocoa
+  - RxSwift
+  - ValidatedPropertyKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - MarkerKit
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - ValidatedPropertyKit
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  MarkerKit: 5f1b726ddccb6cbc6190e9921dacfdef6fa82794
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  ValidatedPropertyKit: 4152a5fe3114f8b3a00fc5990f9125ea038f49a2
+
+PODFILE CHECKSUM: 5e7d744be3a1c32adbba8bf85e1c15ae5bc0fcef
+
+COCOAPODS: 1.10.0
